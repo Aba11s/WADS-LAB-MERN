@@ -6,3 +6,5 @@ Added signup and singout features
 Frontend snippets
 
 ![homepage](./sc/mern-frontend.png)
+![loginpage](./sc/mern-login.png)
+![signup](./sc/mern-signup.png)
